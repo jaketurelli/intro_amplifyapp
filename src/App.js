@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Kacy Turelli is the most beautiful person in the world.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
